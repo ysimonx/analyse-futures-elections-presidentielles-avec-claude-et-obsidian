@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "a3fdb130e79a2a11",
+    "type": "split",
+    "children": [
+      {
+        "id": "028936af3619c659",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8bc39208657fb66",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vue graphique"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "32896773a4ffaaed",
+    "type": "split",
+    "children": [
+      {
+        "id": "ace9e313f8afa5a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22acf6e4e61bcbea",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorateur de fichiers"
+            }
+          },
+          {
+            "id": "48dd6e60f315dad9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Rechercher"
+            }
+          },
+          {
+            "id": "8d118a7b8b9f96f7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Signets"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1ad3012ab5c5c448",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe996e58b0e2a077",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7ab43c5a085d5c3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rétroliens"
+            }
+          },
+          {
+            "id": "e5e3fd0378dba85e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Liens sortants"
+            }
+          },
+          {
+            "id": "3c3785e148476b55",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Mots-clés"
+            }
+          },
+          {
+            "id": "06f6a6ac25b0807d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Toutes les propriétés"
+            }
+          },
+          {
+            "id": "a9c120895ba81dd7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Plan"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "bases:Créer une nouvelle base": false
+    }
+  },
+  "active": "d8bc39208657fb66",
+  "lastOpenFiles": [
+    "wiki/entities/maud-bregeon.md",
+    "wiki/entities/emmanuel-macron.md",
+    "wiki/entities/renaissance.md",
+    "wiki/entities/sebastien-lecornu.md",
+    "wiki/entities/gabriel-attal.md",
+    "wiki/sources/2026-04-14-huffpost-taburet-renaissance-1er-mai-pugilat.md",
+    "raw/2026-04-14-huffpost-taburet-renaissance-1er-mai-pugilat.md",
+    "log.md",
+    "wiki/concepts/front-republicain.md",
+    "wiki/entities/eelv.md",
+    "wiki/entities/place-publique.md",
+    "wiki/entities/chloe-ridel.md",
+    "wiki/entities/boris-vallaud.md",
+    "wiki/entities/clementine-autain.md",
+    "wiki/entities/marine-tondelier.md",
+    "wiki/entities/francois-ruffin.md",
+    "wiki/entities/jean-luc-melenchon.md",
+    "wiki/entities/raphael-glucksmann.md",
+    "wiki/entities/olivier-faure.md",
+    "wiki/sources/2026-04-11-huffpost-taburet-faure-candidature-commune-2027.md",
+    "raw/2026-04-11-huffpost-taburet-faure-candidature-commune-2027.md",
+    "wiki/entities/edouard-philippe.md",
+    "Clippings/Carburants  \"La dureté du choc nous impose d'accompagner les pêcheurs\", selon Edouard Philippe, en visite à Douarnenez - ICI.md",
+    "wiki/entities/nicolas-sarkozy.md",
+    "Clippings/Jean-Luc Mélenchon, Bruno Retailleau, Marine Le Pen (ou Jordan Bardella)... Qui sont les candidats déjà déclarés ou pressentis pour la présidentielle 2027 ?.md",
+    "Clippings/\"On a encore du mal à se faire accepter par le milieu bancaire\"  le RN n'a toujours pas de banque pour financer sa campagne présidentielle.md",
+    "entities",
+    "Clippings",
+    "wiki/sources",
+    "wiki/entities",
+    "wiki/concepts",
+    "wiki/answers",
+    "wiki",
+    "raw/assets",
+    "raw"
+  ]
+}

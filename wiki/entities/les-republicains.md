@@ -1,0 +1,55 @@
+---
+title: Les Républicains (LR)
+type: entity
+created: 2026-04-15
+updated: 2026-04-15
+sources: [[sources/2026-03-25-guardian-trumplash]], [[sources/2026-04-15-huffpost-gueant-sarkozy-suicidaire]]
+tags: [parti, droite, centre-droit, presidentielle-2027, stub]
+---
+
+# Les Républicains (LR)
+
+## Summary
+
+Parti de droite traditionnelle française. D'après [[sources/2026-03-25-guardian-trumplash]], les Républicains sortent des **municipales 2026** avec un bilan ambigu : **défaites** dans plusieurs grandes villes (Paris, Lyon) en alliance avec les macronistes, mais **gains dans plusieurs anciens bastions de gauche**. L'article propose qu'**un bloc centre + centre-droit uni pourrait théoriquement battre le RN au second tour de 2027**, mais juge ce scénario fragile à cause du nombre de candidats potentiels (« une demi-douzaine »).
+
+## Cas particulier Ciotti
+
+[[entities/eric-ciotti]] est traité dans l'article comme **allié du RN**, pas comme représentant de LR. La scission ou la marginalisation de Ciotti par rapport à LR depuis 2024 est implicite mais non explicitée dans la source — **à clarifier**.
+
+## Question 2027
+
+- Présidentiable LR mentionné dans l'article : **aucun nommément**, mais [[entities/edouard-philippe]] (Horizons, pas LR stricto sensu) cité comme **favori potentiel d'un éventuel candidat unique centre/centre-droit**.
+- Le casse-tête : six prétendants pour un fauteuil unique.
+
+## Climat politique à T-1 an de la présidentielle 2027
+
+> *Section ajoutée le 2026-04-15 suite à l'ingest de [[sources/2026-04-15-huffpost-gueant-sarkozy-suicidaire]].*
+
+Au-delà des résultats des [[entities/elections-locales-2026|municipales 2026]], le climat de la droite est **alourdi par les affaires judiciaires** touchant ses figures historiques. En particulier :
+
+- **Procès en appel de [[entities/nicolas-sarkozy]]** dans l'[[entities/affaire-libyenne-sarkozy]] (en cours en avril 2026). Sarkozy a été condamné en première instance pour « association de malfaiteurs ». La semaine du 7-11 avril 2026, sa stratégie de défense **a viré au règlement de comptes interne** avec son ancien bras droit [[entities/claude-gueant]], qui a riposté par une attestation écrite accablante lue à l'audience le 14 avril.
+- **Effet sur LR** : Sarkozy n'est ni candidat 2027 ni président du parti, mais il reste une **référence morale et un kingmaker** à droite. Le spectacle public d'un ancien président qui charge son ex-directeur de cabinet — qualifié de **« suicidaire »** par l'avocat de ce dernier sur RTL — **abîme l'image de l'ensemble de l'écosystème LR / sarkozyste** au moment où le bloc centre-droit cherche à construire une candidature unique pour battre le RN ([[entities/edouard-philippe]] cité comme favori potentiel par [[sources/2026-03-25-guardian-trumplash]]).
+- **À surveiller** : quels élus LR commentent publiquement, et dans quel sens. Aucun n'est documenté dans la source actuelle. C'est l'indicateur le plus net de l'effet réel sur le parti.
+
+## À enrichir (stub)
+
+- Direction actuelle de LR
+- Sortie / statut de Ciotti vis-à-vis du parti
+- Présidentiables LR 2027 par nom
+- Trajectoire post-2017 (Wauquiez, Pécresse, Ciotti…)
+- Relation avec Horizons / Renaissance / MoDem dans l'optique d'un bloc commun
+
+## Related
+
+- [[entities/eric-ciotti]]
+- [[entities/edouard-philippe]]
+- [[entities/nicolas-sarkozy]]
+- [[entities/affaire-libyenne-sarkozy]]
+- [[entities/elections-locales-2026]]
+- [[concepts/qualification-second-tour]]
+
+## Sources citées
+
+- [[sources/2026-03-25-guardian-trumplash]]
+- [[sources/2026-04-15-huffpost-gueant-sarkozy-suicidaire]]
