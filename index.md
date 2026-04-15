@@ -14,6 +14,7 @@ Catalogue de contenu du wiki senspo. Chaque page sous `wiki/` y figure exactemen
 - [[wiki/entities/affaire-libyenne-sarkozy]] — dossier judiciaire financement campagne 2007 par Kadhafi · updated 2026-04-15
 - [[wiki/entities/boris-vallaud]] — président groupe PS Assemblée, lâche Faure et préfère un chef de file en juin · updated 2026-04-15
 - [[wiki/entities/brice-hortefeux]] — sarkozyste historique, co-mis en cause dans l'affaire libyenne · updated 2026-04-15
+- [[wiki/entities/bruno-retailleau]] — LR, capitalise sur la déroute de Renaissance le 1er mai, refuse la primaire · updated 2026-04-15
 - [[wiki/entities/chloe-ridel]] — députée européenne PS, pilote du projet de fond du plan Faure · updated 2026-04-15
 - [[wiki/entities/claude-gueant]] — ex-bras droit de Sarkozy, riposte par attestation accablante en avril 2026 · updated 2026-04-15
 - [[wiki/entities/clementine-autain]] — candidate déclarée à la primaire de gauche, statut LFI ambigu · updated 2026-04-15
@@ -21,17 +22,22 @@ Catalogue de contenu du wiki senspo. Chaque page sous `wiki/` y figure exactemen
 - [[wiki/entities/eelv]] — Les Écologistes, dirigés par Tondelier, dans le périmètre du plan Faure · updated 2026-04-15
 - [[wiki/entities/elections-locales-2026]] — municipales françaises de mars 2026, dernier grand test avant 2027 · updated 2026-04-15
 - [[wiki/entities/emmanuel-gregoire]] — député PS, élu maire de Paris en 2026 · updated 2026-04-15
+- [[wiki/entities/emmanuel-macron]] — président sortant 2017-2027, non rééligible, kingmaker implicite du bloc central · updated 2026-04-15
 - [[wiki/entities/eric-ciotti]] — figure de droite, allié RN, vainqueur à Nice en 2026 · updated 2026-04-15
 - [[wiki/entities/francois-ruffin]] — candidat déclaré à la primaire de gauche, borne « radicale » du périmètre Faure · updated 2026-04-15
+- [[wiki/entities/gabriel-attal]] — président Renaissance/EPR, échec personnel sur le 1er mai, présidentiable « valeur travail » · updated 2026-04-15
 - [[wiki/entities/huffpost-france]] — média en ligne français, centre-gauche libéral (1re entité « média » du wiki) · updated 2026-04-15
 - [[wiki/entities/jean-luc-melenchon]] — fondateur LFI, refuse la primaire de gauche, statut 2027 non confirmé · updated 2026-04-15
 - [[wiki/entities/jordan-bardella]] — président du RN, candidat le plus testé par les sondages 2027 · updated 2026-04-15
 - [[wiki/entities/la-france-insoumise]] — gauche radicale, exclue et hors-jeu de la primaire Faure · updated 2026-04-15
 - [[wiki/entities/laurence-morel]] — politologue Université de Lille, spécialiste des primaires (1re universitaire du wiki) · updated 2026-04-15
 - [[wiki/entities/laurent-valdiguie]] — grand reporter Marianne, témoin de la rupture Sarkozy/Guéant · updated 2026-04-15
-- [[wiki/entities/les-republicains]] — droite traditionnelle, défaites en grandes villes en 2026 · updated 2026-04-15
+- [[wiki/entities/les-republicains]] — droite traditionnelle, Retailleau capitalise sur la crise du bloc central · updated 2026-04-15
+- [[wiki/entities/marc-fesneau]] — patron groupe MoDem Assemblée, dénonce l'« auto 49-3 » d'Attal sur le 1er mai · updated 2026-04-15
 - [[wiki/entities/marine-le-pen]] — figure historique RN, candidate 2027 sous condition de son procès · updated 2026-04-15
 - [[wiki/entities/marine-tondelier]] — patronne EELV, défenseure de la primaire « coûte que coûte », candidate déclarée · updated 2026-04-15
+- [[wiki/entities/maud-bregeon]] — porte-parole gouvernement Lecornu, contre la primaire à droite/centre · updated 2026-04-15
+- [[wiki/entities/modem]] — parti centriste, composante du bloc central, critique la méthode de Renaissance · updated 2026-04-15
 - [[wiki/entities/mouammar-kadhafi]] — dictateur libyen 1969–2011, soupçonné d'avoir financé la campagne 2007 · updated 2026-04-15
 - [[wiki/entities/nicolas-sarkozy]] — ancien président, jugé en appel pour l'affaire libyenne en avril 2026 · updated 2026-04-15
 - [[wiki/entities/olivier-faure]] — Premier secrétaire PS, architecte du plan de candidature commune 2027 · updated 2026-04-15
@@ -40,8 +46,13 @@ Catalogue de contenu du wiki senspo. Chaque page sous `wiki/` y figure exactemen
 - [[wiki/entities/place-publique]] — parti de Glucksmann, allié historique du PS aux européennes · updated 2026-04-15
 - [[wiki/entities/raphael-glucksmann]] — Place Publique, refuse la primaire malgré son statut de pré-favori des sondages · updated 2026-04-15
 - [[wiki/entities/rassemblement-national]] — extrême droite, favori sondages 2027, plafond visible aux locales 2026 · updated 2026-04-15
+- [[wiki/entities/renaissance]] — parti pivot du bloc central, présidé par Attal, en crise interne après le 1er mai · updated 2026-04-15
+- [[wiki/entities/sebastien-lecornu]] — Premier ministre français au 14 avril 2026, retire le texte sur le travail le 1er mai · updated 2026-04-15
+- [[wiki/entities/udi]] — petit parti centre-droit, à l'origine de la PPL travail le 1er mai · updated 2026-04-15
+- [[wiki/entities/yael-braun-pivet]] — présidente Assemblée nationale, Renaissance, dézingue son propre camp sur le 1er mai · updated 2026-04-15
 
 ## Concepts
+- [[wiki/concepts/bloc-central]] — hub sur la coalition macroniste élargie (Renaissance + MoDem + Horizons + alliés) · updated 2026-04-15
 - [[wiki/concepts/front-republicain]] — désistement entre forces démocratiques pour bloquer le RN · updated 2026-04-15
 - [[wiki/concepts/primaires-en-france]] — hub méthodologique sur l'histoire et l'état du débat primaire · updated 2026-04-15
 - [[wiki/concepts/qualification-second-tour]] — mécanique centrale du scrutin présidentiel français · updated 2026-04-15
@@ -53,6 +64,7 @@ Catalogue de contenu du wiki senspo. Chaque page sous `wiki/` y figure exactemen
 - [[wiki/sources/2026-04-11-huffpost-herreros-sondages-t-moins-1-an]] — HuffPost FR, Romain Herreros, rétrospective sondages T-1 an des 5 cycles passés · ingested 2026-04-15
 - [[wiki/sources/2026-04-11-huffpost-taburet-faure-candidature-commune-2027]] — HuffPost FR, Marceau Taburet, plan Faure pour candidature commune de la gauche · ingested 2026-04-15
 - [[wiki/sources/2026-04-11-huffpost-toussay-haynes-primaires-2027]] — HuffPost FR, Toussay & Haynes, histoire des primaires + sondage Elabe Philippe seul rival Bardella · ingested 2026-04-15
+- [[wiki/sources/2026-04-14-huffpost-taburet-renaissance-1er-mai-pugilat]] — HuffPost FR, Marceau Taburet, anatomie du crash Renaissance sur le travail le 1er mai · ingested 2026-04-15
 - [[wiki/sources/2026-04-15-huffpost-gueant-sarkozy-suicidaire]] — HuffPost FR, Maxime Dhuin, rupture Sarkozy/Guéant au procès libyen en appel · ingested 2026-04-15
 
 ## Answers

@@ -11,10 +11,14 @@
             "id": "d8bc39208657fb66",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vue graphique"
+              "type": "markdown",
+              "state": {
+                "file": "wiki/entities/elections-locales-2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "elections-locales-2026"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "wiki/entities/elections-locales-2026.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétroliens"
+              "title": "Rétrolien pour elections-locales-2026"
             }
           },
           {
@@ -178,6 +183,19 @@
   },
   "active": "d8bc39208657fb66",
   "lastOpenFiles": [
+    "wiki/entities/edouard-philippe.md",
+    "wiki/concepts/qualification-second-tour.md",
+    "wiki/entities/jean-luc-melenchon.md",
+    "raw/Jean-Luc Mélenchon, Bruno Retailleau, Marine Le Pen (ou Jordan Bardella)... Qui sont les candidats déjà déclarés ou pressentis pour la présidentielle 2027 ?.md",
+    "raw/Carburants  \"La dureté du choc nous impose d'accompagner les pêcheurs\", selon Edouard Philippe, en visite à Douarnenez - ICI.md",
+    "raw/\"Personne ne souhaite être désigné comme son successeur\"  quel rôle jouera Emmanuel Macron dans la campagne présidentielle de 2027 ?.md",
+    "raw/\"On a encore du mal à se faire accepter par le milieu bancaire\"  le RN n'a toujours pas de banque pour financer sa campagne présidentielle.md",
+    "wiki/concepts/bloc-central.md",
+    "wiki/entities/udi.md",
+    "wiki/entities/modem.md",
+    "wiki/entities/marc-fesneau.md",
+    "wiki/entities/bruno-retailleau.md",
+    "wiki/entities/yael-braun-pivet.md",
     "wiki/entities/maud-bregeon.md",
     "wiki/entities/emmanuel-macron.md",
     "wiki/entities/renaissance.md",
@@ -191,19 +209,6 @@
     "wiki/entities/place-publique.md",
     "wiki/entities/chloe-ridel.md",
     "wiki/entities/boris-vallaud.md",
-    "wiki/entities/clementine-autain.md",
-    "wiki/entities/marine-tondelier.md",
-    "wiki/entities/francois-ruffin.md",
-    "wiki/entities/jean-luc-melenchon.md",
-    "wiki/entities/raphael-glucksmann.md",
-    "wiki/entities/olivier-faure.md",
-    "wiki/sources/2026-04-11-huffpost-taburet-faure-candidature-commune-2027.md",
-    "raw/2026-04-11-huffpost-taburet-faure-candidature-commune-2027.md",
-    "wiki/entities/edouard-philippe.md",
-    "Clippings/Carburants  \"La dureté du choc nous impose d'accompagner les pêcheurs\", selon Edouard Philippe, en visite à Douarnenez - ICI.md",
-    "wiki/entities/nicolas-sarkozy.md",
-    "Clippings/Jean-Luc Mélenchon, Bruno Retailleau, Marine Le Pen (ou Jordan Bardella)... Qui sont les candidats déjà déclarés ou pressentis pour la présidentielle 2027 ?.md",
-    "Clippings/\"On a encore du mal à se faire accepter par le milieu bancaire\"  le RN n'a toujours pas de banque pour financer sa campagne présidentielle.md",
     "entities",
     "Clippings",
     "wiki/sources",

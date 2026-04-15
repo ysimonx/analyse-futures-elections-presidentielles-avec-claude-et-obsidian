@@ -34,6 +34,26 @@ Sarkozy n'est pas candidat. Sa pertinence pour le wiki est **indirecte**, à tra
 2. **Effet « sale tout le monde »** — l'affaire libyenne, combinée au procès en appel de [[entities/marine-le-pen]] sur les assistants parlementaires (autre dossier en cours touchant un présidentiable), peut nourrir un narratif **« establishment corrompu »** profitable au RN comme alternative — ou inversement, peut éclabousser tous les candidats de l'arc gouvernemental traditionnel.
 3. **Influence de coulisse** — Sarkozy reste consulté, soutien des candidats à droite. Aucune source du wiki n'a encore documenté qui il soutient pour 2027.
 
+## Questions ouvertes au 2026-04-15
+
+> *Section ajoutée le 2026-04-15 suite à la query utilisateur « est-ce que Nicolas Sarkozy va finir en prison ? » qui a révélé que le wiki **ne peut pas répondre** à cette question avec les sources actuelles. Cette section matérialise les 4 trous critiques pour qu'ils soient visibles dans le wiki et pas seulement dans le chat.*
+
+Pour pouvoir évaluer la trajectoire judiciaire de Sarkozy, le wiki a besoin de :
+
+1. **❓ Quelle peine a été prononcée en première instance dans l'[[entities/affaire-libyenne-sarkozy]] ?** [[sources/2026-04-15-huffpost-gueant-sarkozy-suicidaire]] mentionne une condamnation pour *« association de malfaiteurs »* sans donner ni quantum, ni nature (ferme, sursis, bracelet électronique), ni date du jugement.
+2. **❓ Quel est le calendrier précis du procès en appel ?** Date d'audience, date attendue du délibéré — non documentés.
+3. **❓ Les autres affaires judiciaires.** [[sources/2026-04-15-huffpost-gueant-sarkozy-suicidaire]] mentionne explicitement Bygmalion, Bismuth/écoutes et « sondages Élysée » comme **non couvertes** par la source. Or « finir en prison » dépend du **cumul** des peines, pas seulement de l'affaire libyenne.
+4. **❓ Statut carcéral effectif au printemps 2026.** Sarkozy est-il actuellement libre, sous bracelet électronique, en sursis, en exécution d'une peine ? Aucune source ne le dit.
+
+**Sources qui combleraient ces trous** :
+
+- Un récap presse de référence sur **toutes les affaires Sarkozy** (Mediapart en mode dossier, Le Monde, ou un article spécialisé).
+- Une source dédiée à l'**affaire Bismuth** (procès des écoutes, condamnation, statut de l'exécution de peine).
+- Une source dédiée à l'**affaire Bygmalion** (financement campagne 2012, condamnation, appel).
+- Un article récent sur le **calendrier précis** du procès libyen en appel.
+
+**Ces 4 trous sont par ailleurs listés comme open questions du wiki dans [[overview]] et figurent dans l'entrée query du [[log]] du 2026-04-15.**
+
 ## À enrichir (stub)
 
 - Parcours politique complet (1983 Neuilly → présidence 2007–2012)

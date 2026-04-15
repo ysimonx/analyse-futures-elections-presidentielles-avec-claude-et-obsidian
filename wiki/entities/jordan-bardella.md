@@ -27,6 +27,16 @@ D'après [[sources/2026-04-11-huffpost-toussay-haynes-primaires-2027]] qui cite 
 - [[entities/edouard-philippe]] est désigné comme **« seul potentiel gagnant »** d'un duel contre lui — sous-entendu : Bardella bat tous les autres adversaires testés.
 - **Aucun chiffre précis** n'est dans la source ingérée — il faudrait ingérer l'article HuffPost cité.
 
+> [!warning] Tension interne au wiki — Bardella « plan B » ou « candidat principal » ?
+> *Note analytique ajoutée le 2026-04-15 suite à la passe lint.*
+>
+> Le wiki présente Bardella sur deux registres parallèles, en tension :
+>
+> 1. **Registre historique / Guardian (mars 2026)** : Bardella est le **« plan B »** du RN, déclenché si [[entities/marine-le-pen]] est empêchée par son procès en appel ([[sources/2026-03-25-guardian-trumplash]] et [[entities/rassemblement-national]]).
+> 2. **Registre sondages / Elabe (fin mars 2026)** : Bardella est **explicitement nommé** comme candidat principal testé contre [[entities/edouard-philippe]] et tous les autres prétendants.
+>
+> **Inférence du wiki (à manier comme analyse, pas comme fait)** : les sondeurs **anticipent déjà** une éventualité où Le Pen serait inéligible et où Bardella serait candidat par défaut. Cette **bascule** constitue un **indice indirect** sur la perception qu'ont les instituts de l'imminence ou de la plausibilité du verdict d'appel concernant Le Pen — sans qu'on puisse mesurer ce signal faute d'accès aux justifications méthodologiques. **À recouper** avec une source dédiée au procès Le Pen et l'article HuffPost contenant les chiffres complets du sondage Elabe.
+
 > [!warning] À lire à travers [[concepts/sondages-t-moins-1-an]]
 > Sondage à T-1 an, historiquement peu fiable. À ce stade des cycles passés, les favoris ont presque toujours été supplantés. Les **mécanismes de retournement** qui pourraient affecter Bardella : (a) issue défavorable du procès Le Pen qui obligerait à un changement de candidat, (b) émergence d'un quatrième larron à droite ou au centre, (c) événement personnel.
 

@@ -26,7 +26,7 @@ Synthèse vivante du wiki. **Domaine : élection présidentielle française 2027
 
 2. **La droite traditionnelle est plombée par les affaires** ([[sources/2026-04-15-huffpost-gueant-sarkozy-suicidaire]], HuffPost France, 2026-04-15) — le procès en appel de [[entities/nicolas-sarkozy]] dans l'[[entities/affaire-libyenne-sarkozy]] a viré au règlement de comptes interne en avril 2026 : Sarkozy a chargé son ex-bras droit [[entities/claude-gueant]], qui a riposté par une attestation accablante. L'avocat de Guéant qualifie la stratégie Sarkozy de **« suicidaire »**. Effet probable : affaiblissement collatéral de l'image de [[entities/les-republicains]] au moment où le bloc centre-droit cherche un candidat unique pour 2027.
 
-**Précautions** — Toutes les affirmations du wiki reposent sur **5 sources** au 2026-04-15 (1 Guardian, 4 HuffPost France), toutes de presse de centre-gauche. Pas de recoupement systématique encore. Niveau de confiance global : **bas**, mais **deux pages-hub méthodologiques** ([[concepts/sondages-t-moins-1-an]] et [[concepts/primaires-en-france]]) cadrent désormais la lecture critique de toute donnée chiffrée à venir.
+**Précautions** — Toutes les affirmations du wiki reposent sur **6 sources** au 2026-04-15 (1 Guardian, 5 HuffPost France), toutes de presse de centre-gauche. Pas de recoupement systématique encore. Niveau de confiance global : **bas**, mais **trois pages-hub conceptuelles** ([[concepts/sondages-t-moins-1-an]], [[concepts/primaires-en-france]] et [[concepts/bloc-central]]) cadrent désormais la lecture critique de toute donnée chiffrée à venir et la cartographie de la macronie élargie.
 
 ## Date du 1er tour 2027
 
@@ -63,6 +63,7 @@ D'après [[sources/2026-04-11-huffpost-toussay-haynes-primaires-2027]] qui cite 
 - **Le candidat unique centre + centre-droit** — six prétendants identifiés, Édouard Philippe cité comme favori par Henley. Pas de déclaration formelle pour l'instant.
 - **Climat judiciaire à droite — procès Sarkozy en appel** — l'[[entities/affaire-libyenne-sarkozy]] est en procès d'appel en avril 2026. Sarkozy a chargé Guéant, qui a riposté. À surveiller : le délibéré, et **les réactions publiques d'élus LR** (silence ou défense). C'est l'indicateur le plus net de l'effet réel sur le parti.
 - **Méthodologie : comment lire les sondages 2027** — la paire [[concepts/sondages-t-moins-1-an]] + [[concepts/primaires-en-france]] est désormais le **filtre de lecture obligatoire** pour tout chiffre cité dans le wiki. Thèse centrale : à T-1 an, les sondages ont historiquement toujours été démentis par les faits sur les cinq cycles 1995-2017. Implication directe : le « comfortable lead » du RN et le scénario « Philippe seul rival » sont des hypothèses, pas des prédictions.
+- **Crise interne du bloc central — l'épisode du 1er mai (avril 2026)** — Le Premier ministre [[entities/sebastien-lecornu]] (en fonction au 14 avril 2026 — date de prise de fonction inconnue) a retiré le 14 avril une PPL UDI étendant le travail le 1er mai, sous la double pression syndicale et de la menace d'une motion de censure de gauche. Le retrait a provoqué une **révolte interne à [[entities/renaissance]]** présidée par [[entities/gabriel-attal]] (réunion de groupe virée au « pugilat »), avec **critiques publiques de la méthode au sein même du bloc central** ([[entities/yael-braun-pivet]] et [[entities/marc-fesneau]]). [[entities/bruno-retailleau]] (LR) capitalise. **Échec personnel** d'Attal sur sa stratégie « valeur travail » lue par HuffPost comme *« filiation sarkozyste à peine dissimulée »*. *Lecture HuffPost finale* : *« un fiasco qui peut laisser des traces en vue de 2027 »*.
 
 ## Open questions
 
@@ -83,6 +84,10 @@ Issues du premier ingest, à clore par de futures sources :
 - La **primaire de gauche** annoncée par Olivier Faure pour le **11 octobre 2026** aura-t-elle effectivement lieu — vu que ses deux pré-favoris ([[entities/jean-luc-melenchon]] et [[entities/raphael-glucksmann]]) refusent d'y participer ? — *Bundle 2 ingéré, mais l'incertitude opérationnelle demeure entière.*
 - Quel est le **statut formel actuel** de [[entities/francois-ruffin]] et [[entities/clementine-autain]] vis-à-vis de [[entities/la-france-insoumise|LFI]] ? Leur participation à la primaire Faure suggère une rupture, à confirmer.
 - **Boris Vallaud** s'opposera-t-il publiquement à Faure, et si oui, sera-t-il lui-même candidat « chef de file » alternatif ?
+- **Date précise de nomination** de [[entities/sebastien-lecornu]] comme Premier ministre, et **composition de son gouvernement** ?
+- **Cote personnelle d'[[entities/gabriel-attal]]** dans les sondages présidentielles 2027 — la crise du 1er mai a-t-elle laissé des traces mesurables ?
+- **L'« appel des près de 100 personnalités »** de droite et du centre pour une candidature unique 2027 (mentionné dans [[sources/2026-04-11-huffpost-toussay-haynes-primaires-2027]]) — composition exacte, mécanisme proposé, position des présidentiables nommés (Attal, Philippe, Retailleau, Wauquiez ?) ?
+- **Page Horizons** (parti d'Édouard Philippe) à créer dès qu'une source en parle substantiellement.
 
 ## Pistes d'ingest suggérées (issues des liens internes de la 1ère source)
 
