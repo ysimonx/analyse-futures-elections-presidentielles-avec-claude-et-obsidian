@@ -3,7 +3,7 @@ title: Clémentine Autain
 type: entity
 created: 2026-04-15
 updated: 2026-04-15
-sources: [[sources/2026-04-11-huffpost-taburet-faure-candidature-commune-2027]]
+sources: [[sources/2026-04-11-huffpost-taburet-faure-candidature-commune-2027]], [[sources/2026-03-26-franceinfo-cometti-le-meneec-panorama-candidats-2027]]
 tags: [personne, gauche, candidate-primaire, presidentielle-2027, stub]
 ---
 
@@ -15,8 +15,9 @@ Personnalité politique française, **candidate déclarée à la primaire de gau
 
 ## Position sur la primaire 2027
 
-- **Candidate déclarée.**
+- **Candidate déclarée en juin 2025** dans *La Tribune dimanche* — *« candidate pour incarner une gauche solide »* ([[sources/2026-03-26-franceinfo-cometti-le-meneec-panorama-candidats-2027]]).
 - Sa participation, comme celle de [[entities/francois-ruffin]], illustre que des **figures historiquement proches de LFI** peuvent aujourd'hui se positionner **dans le périmètre de la primaire Faure**, c'est-à-dire à distance officielle de Mélenchon.
+- ✅ **Confirmation 2026-04-15** : franceinfo la qualifie explicitement *« chez les anciens insoumis »* — la rupture avec LFI est **effective** (résout le warning Bundle 2).
 
 ## À enrichir (stub)
 
@@ -39,3 +40,4 @@ Personnalité politique française, **candidate déclarée à la primaire de gau
 ## Sources citées
 
 - [[sources/2026-04-11-huffpost-taburet-faure-candidature-commune-2027]]
+- [[sources/2026-03-26-franceinfo-cometti-le-meneec-panorama-candidats-2027]]

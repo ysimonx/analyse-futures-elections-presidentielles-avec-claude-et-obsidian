@@ -3,7 +3,7 @@ title: Sondages à T-1 an de la présidentielle (méthodologie de lecture)
 type: concept
 created: 2026-04-15
 updated: 2026-04-15
-sources: [[sources/2026-04-11-huffpost-herreros-sondages-t-moins-1-an]], [[sources/2026-04-11-huffpost-toussay-haynes-primaires-2027]]
+sources: [[sources/2026-04-11-huffpost-herreros-sondages-t-moins-1-an]], [[sources/2026-04-11-huffpost-toussay-haynes-primaires-2027]], [[sources/2026-03-26-franceinfo-cometti-le-meneec-panorama-candidats-2027]]
 tags: [methodologie, sondages, presidentielle, lecture-critique, hub]
 ---
 
@@ -54,7 +54,7 @@ Six grandes catégories d'événements peuvent renverser un sondage T-1 an :
 
 | Sondage | Source documentaire | Lecture critique |
 |---|---|---|
-| **« Comfortable lead »** RN (Le Pen ou Bardella) au 1er tour | [[sources/2026-03-25-guardian-trumplash]] (Guardian, 25 mars 2026) — sans chiffre précis | Cohérent avec la doctrine *« le RN est en tête »*, mais : (a) aucun chiffre, (b) projection à 12 mois, donc **niveau de confiance bas**. Mécanismes potentiels de retournement actifs : procès Le Pen, primaire à gauche, émergence Philippe ou autre. |
+| **« Comfortable lead »** RN (Le Pen ou Bardella) au 1er tour | [[sources/2026-03-25-guardian-trumplash]] (Guardian, 25 mars 2026) + [[sources/2026-03-26-franceinfo-cometti-le-meneec-panorama-candidats-2027]] (franceinfo, 26 mars 2026) — sans chiffre précis | Cohérent avec la doctrine *« le RN est en tête »*. Confirmation directe par franceinfo : *« Tous deux [Le Pen et Bardella] sont désormais testés par les instituts de sondage et se hissent largement à la première place dans les intentions de vote pour le premier tour. »* Mais (a) aucun chiffre, (b) projection à 12 mois, donc **niveau de confiance bas**. Mécanisme de retournement le plus actif : **verdict Le Pen le 7 juillet 2026**. |
 | **Édouard Philippe seul potentiel gagnant d'un duel contre le RN au 2nd tour** | [[sources/2026-04-11-huffpost-toussay-haynes-primaires-2027]] (HuffPost, 11 avril 2026) **citant Elabe pour BFMTV/La Tribune fin mars 2026** | **Premier datapoint chiffré du wiki**, mais **les chiffres précis ne sont pas dans la source** — ils sont dans l'article HuffPost référencé que nous n'avons pas encore ingéré. À traiter comme une information **directionnelle**, pas comme une projection ferme. Cohérent avec le scénario « candidat unique centre+centre-droit » discuté par Henley dans le Guardian. **Niveau de confiance : moyen-bas.** |
 
 ## Open questions
@@ -82,3 +82,4 @@ Six grandes catégories d'événements peuvent renverser un sondage T-1 an :
 
 - [[sources/2026-04-11-huffpost-herreros-sondages-t-moins-1-an]]
 - [[sources/2026-04-11-huffpost-toussay-haynes-primaires-2027]]
+- [[sources/2026-03-26-franceinfo-cometti-le-meneec-panorama-candidats-2027]]

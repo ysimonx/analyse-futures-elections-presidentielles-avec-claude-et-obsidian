@@ -3,7 +3,7 @@ title: François Ruffin
 type: entity
 created: 2026-04-15
 updated: 2026-04-15
-sources: [[sources/2026-04-11-huffpost-taburet-faure-candidature-commune-2027]], [[sources/2026-04-11-huffpost-toussay-haynes-primaires-2027]]
+sources: [[sources/2026-04-11-huffpost-taburet-faure-candidature-commune-2027]], [[sources/2026-04-11-huffpost-toussay-haynes-primaires-2027]], [[sources/2026-03-26-franceinfo-cometti-le-meneec-panorama-candidats-2027]]
 tags: [personne, gauche, candidat-primaire, presidentielle-2027, stub]
 ---
 
@@ -15,9 +15,10 @@ Personnalité politique française, **candidat déclaré à la primaire de gauch
 
 ## Position sur la primaire 2027
 
-- **Candidat déclaré.**
+- **Candidat déclaré fin janvier 2026** sur TF1 et dans Libération ([[sources/2026-03-26-franceinfo-cometti-le-meneec-panorama-candidats-2027]]).
 - Marque la **borne gauche** du périmètre Faure.
-- Ce positionnement le distingue de [[entities/jean-luc-melenchon]] et de LFI, qui refusent la primaire — implication implicite : Ruffin est **dissocié de LFI** dans la grille politique de Faure.
+- ✅ **Confirmation 2026-04-15** : franceinfo le qualifie explicitement de **« député ex-insoumis »** — la rupture avec LFI est **effective** (résout le warning Bundle 2).
+- Citation : *« Pas de fatalité, nous pouvons l'emporter »* (annonce dans Libération).
 
 ## À enrichir (stub)
 
@@ -41,3 +42,4 @@ Personnalité politique française, **candidat déclaré à la primaire de gauch
 
 - [[sources/2026-04-11-huffpost-taburet-faure-candidature-commune-2027]]
 - [[sources/2026-04-11-huffpost-toussay-haynes-primaires-2027]]
+- [[sources/2026-03-26-franceinfo-cometti-le-meneec-panorama-candidats-2027]]

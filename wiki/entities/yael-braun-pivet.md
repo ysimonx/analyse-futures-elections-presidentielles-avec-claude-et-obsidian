@@ -3,8 +3,8 @@ title: Yaël Braun-Pivet
 type: entity
 created: 2026-04-15
 updated: 2026-04-15
-sources: [[sources/2026-04-14-huffpost-taburet-renaissance-1er-mai-pugilat]]
-tags: [personne, renaissance, presidente-assemblee, bloc-central, stub]
+sources: [[sources/2026-04-14-huffpost-taburet-renaissance-1er-mai-pugilat]], [[sources/2026-04-15-franceinfo-duguet-macron-role-2027]]
+tags: [personne, renaissance, presidente-assemblee, bloc-central, presidentielle-2027, stub]
 ---
 
 # Yaël Braun-Pivet
@@ -27,9 +27,10 @@ tags: [personne, renaissance, presidente-assemblee, bloc-central, stub]
 
 ## Pertinence pour 2027
 
-- **Pas présidentiable identifiée** dans les sources actuelles.
-- **Mais figure d'autorité** au sein de la macronie qui peut peser dans les arbitrages internes : sa critique publique d'Attal le 14 avril a un poids symbolique.
-- À surveiller : son positionnement futur entre Attal, Lecornu, Philippe.
+- 🆕 **Présidentiable confirmée par franceinfo** (15 avril 2026) : *« Selon les informations de franceinfo, la députée du Calvados ne s'interdit rien au vu de la multiplicité des candidatures. »*
+- **Citée comme l'une des « femmes » du bloc central** dont les noms sont *« glissés dans les conversations »*, aux côtés d'**Élisabeth Borne** ([[entities/elisabeth-borne]]).
+- **Figure d'autorité** au sein de la macronie qui peut peser dans les arbitrages internes : sa critique publique d'Attal le 14 avril a un poids symbolique.
+- À surveiller : son positionnement entre Attal, Lecornu, Philippe, Borne, et l'éventualité Castex.
 
 ## À enrichir (stub)
 
@@ -50,3 +51,4 @@ tags: [personne, renaissance, presidente-assemblee, bloc-central, stub]
 ## Sources citées
 
 - [[sources/2026-04-14-huffpost-taburet-renaissance-1er-mai-pugilat]]
+- [[sources/2026-04-15-franceinfo-duguet-macron-role-2027]]

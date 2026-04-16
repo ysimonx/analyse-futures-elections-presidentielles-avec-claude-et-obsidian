@@ -3,7 +3,7 @@ title: La France Insoumise (LFI)
 type: entity
 created: 2026-04-15
 updated: 2026-04-15
-sources: [[sources/2026-03-25-guardian-trumplash]], [[sources/2026-04-11-huffpost-taburet-faure-candidature-commune-2027]], [[sources/2026-04-11-huffpost-toussay-haynes-primaires-2027]]
+sources: [[sources/2026-03-25-guardian-trumplash]], [[sources/2026-04-11-huffpost-taburet-faure-candidature-commune-2027]], [[sources/2026-04-11-huffpost-toussay-haynes-primaires-2027]], [[sources/2026-03-26-franceinfo-cometti-le-meneec-panorama-candidats-2027]]
 tags: [parti, gauche-radicale, presidentielle-2027, stub]
 ---
 
@@ -39,6 +39,16 @@ Parti de gauche radicale français fondé et figuré par Jean-Luc Mélenchon. D'
 
 > [!warning] Ruffin et Autain dissociés de LFI ?
 > [[entities/francois-ruffin]] et [[entities/clementine-autain]], deux figures historiquement proches ou identifiées à LFI, sont **candidats déclarés à la primaire Faure**, donc **hors du périmètre LFI** dans la grille politique de Faure. Cela suggère une **rupture effective** entre eux et LFI/Mélenchon — mais les sources ingérées ne le confirment pas explicitement. À investiguer.
+>
+> ✅ **Confirmation 2026-04-15** : [[sources/2026-03-26-franceinfo-cometti-le-meneec-panorama-candidats-2027]] qualifie explicitement Ruffin de **« député ex-insoumis »** et Autain *« chez les anciens insoumis »*. **La rupture est effective**, le warning peut être considéré comme **résolu**.
+
+## Classement « extrême gauche » par le Conseil d'État
+
+> *Section ajoutée le 2026-04-15.*
+
+D'après [[sources/2026-03-26-franceinfo-cometti-le-meneec-panorama-candidats-2027]], **le Conseil d'État a récemment classé LFI à l'extrême gauche**. LFI **conteste vigoureusement** ce classement, qualifié par le député insoumis Aurélien Le Coq de *« décision à la fois stupéfiante et indigente »*.
+
+→ **Implication politique** : la classification administrative de LFI comme « extrême gauche » a un **effet structurant sur sa visibilité médiatique** (temps de parole CSA/Arcom) et sur sa **catégorisation dans le débat public**. À recouper avec une source dédiée à la décision du Conseil d'État.
 
 ## À enrichir (stub)
 
@@ -64,3 +74,4 @@ Parti de gauche radicale français fondé et figuré par Jean-Luc Mélenchon. D'
 - [[sources/2026-03-25-guardian-trumplash]]
 - [[sources/2026-04-11-huffpost-taburet-faure-candidature-commune-2027]]
 - [[sources/2026-04-11-huffpost-toussay-haynes-primaires-2027]]
+- [[sources/2026-03-26-franceinfo-cometti-le-meneec-panorama-candidats-2027]]

@@ -3,8 +3,8 @@ title: Marine Le Pen
 type: entity
 created: 2026-04-15
 updated: 2026-04-15
-sources: [[sources/2026-03-25-guardian-trumplash]]
-tags: [personne, rn, presidentielle-2027, candidate, stub]
+sources: [[sources/2026-03-25-guardian-trumplash]], [[sources/2026-03-26-franceinfo-cometti-le-meneec-panorama-candidats-2027]], [[sources/2026-04-11-huffpost-toussay-haynes-primaires-2027]]
+tags: [personne, rn, presidentielle-2027, candidate, justice]
 ---
 
 # Marine Le Pen
@@ -13,11 +13,29 @@ tags: [personne, rn, presidentielle-2027, candidate, stub]
 
 Figure historique du [[entities/rassemblement-national]] et son visage international depuis sa prise de tête du parti en 2011. Candidate déclarée à la **présidentielle 2027** sous réserve de l'issue de son **procès en appel**, dont l'audience s'est terminée en **février 2026**. Si elle est jugée inéligible, le parti basculera sur [[entities/jordan-bardella]].
 
-## Procès en appel (situation au 2026-04-15)
+## Procès et statut judiciaire (mis à jour 2026-04-15 avec source franceinfo)
 
-- D'après [[sources/2026-03-25-guardian-trumplash]] (qui renvoie à un papier Guardian du 2026-02-11) : l'audience d'appel s'est tenue et close en février 2026, **avec sa candidature présidentielle en jeu**.
-- Décision attendue, modalités et calendrier à compléter avec une source dédiée.
-- C'est l'un des facteurs décisifs du scénario 2027.
+D'après [[sources/2026-03-26-franceinfo-cometti-le-meneec-panorama-candidats-2027]] :
+
+- **Affaire** : détournements de fonds dans l'**affaire des assistants parlementaires européens** du parti (Front National devenu Rassemblement National).
+- **Condamnation en 1ère instance le 31 mars 2025** :
+  - **5 ans d'inéligibilité avec effet immédiat**
+  - **2 ans de prison ferme**
+- **Procès en appel** tenu en début d'année 2026 (audience close fév. 2026).
+- **🚨 Verdict en appel attendu le 7 juillet 2026.**
+
+### Conditions de candidature 2027
+
+D'après franceinfo :
+
+> *« Pour être candidate, il lui faudrait être relaxée, ou du moins écoper d'une peine d'inéligibilité de deux ans (qu'elle aurait alors purgée à la date du premier tour de la présidentielle) et sans peine de prison ferme. »*
+
+Trois scénarios au 7 juillet 2026 :
+1. **Relaxe** → Le Pen candidate, plan B [[entities/jordan-bardella]] retiré
+2. **Inéligibilité ≤ 2 ans + pas de prison ferme** → Le Pen candidate (la peine de 2 ans serait purgée à la date du 1er tour avril 2027)
+3. **Confirmation 5 ans inéligibilité ou peine plus lourde** → Le Pen empêchée, [[entities/jordan-bardella]] devient candidat officiel
+
+C'est le **pivot le plus structurant** du calendrier 2027 (cf. [[concepts/calendrier-2027]]).
 
 ## Rôle dans le cycle 2027
 
@@ -50,7 +68,11 @@ D'après [[sources/2026-04-11-huffpost-toussay-haynes-primaires-2027]], le sonda
 - [[entities/rassemblement-national]]
 - [[entities/jordan-bardella]]
 - [[concepts/qualification-second-tour]]
+- [[concepts/calendrier-2027]]
+- [[concepts/sondages-t-moins-1-an]]
 
 ## Sources citées
 
 - [[sources/2026-03-25-guardian-trumplash]]
+- [[sources/2026-03-26-franceinfo-cometti-le-meneec-panorama-candidats-2027]]
+- [[sources/2026-04-11-huffpost-toussay-haynes-primaires-2027]]

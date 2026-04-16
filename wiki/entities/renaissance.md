@@ -2,8 +2,8 @@
 title: Renaissance (parti)
 type: entity
 created: 2026-04-15
-updated: 2026-04-15
-sources: [[sources/2026-04-14-huffpost-taburet-renaissance-1er-mai-pugilat]]
+updated: 2026-04-16
+sources: [[sources/2026-04-14-huffpost-taburet-renaissance-1er-mai-pugilat]], [[sources/2026-04-16-huffpost-herreros-attal-candidature-2027]]
 tags: [parti, bloc-central, macronie, presidentielle-2027, stub]
 ---
 
@@ -36,9 +36,15 @@ D'après la source :
 
 → La crise n'est donc **pas seulement Attal vs base militante** : elle s'étend à **tout le bloc central** (Renaissance + MoDem), et même à des macronistes pourtant favorables au texte qui critiquent la méthode.
 
+## 🆕 Attal candidat déclaré (16 avril 2026)
+
+> *Section ajoutée le 2026-04-16 suite à l'ingest de [[sources/2026-04-16-huffpost-herreros-attal-candidature-2027]].*
+
+Le président de Renaissance **officialise sa candidature** le 16 avril 2026 via une interview au *Point* et un livre. Le parti est donc désormais dirigé par un **candidat déclaré** à la présidentielle 2027 — ce qui clarifie la situation mais renforce la tension avec les autres composantes du [[concepts/bloc-central]], notamment [[entities/edouard-philippe]] (Horizons), qu'Attal attaque le même jour sur la retraite à 67 ans.
+
 ## Pertinence pour 2027
 
-- **Présidentiable putatif** : [[entities/gabriel-attal]], dont le *« moment d'incompréhension »* personnel sur le 1er mai est lu par HuffPost comme un **« échec personnel »** dans son *« positionnement de filiation sarkozyste »* sur la valeur travail.
+- **Présidentiable déclaré** : [[entities/gabriel-attal]] (16 avril 2026), dont le *« moment d'incompréhension »* personnel sur le 1er mai est lu par HuffPost comme un **« échec personnel »** dans son *« positionnement de filiation sarkozyste »* sur la valeur travail.
 - **Effet wider** : *« un fiasco qui peut laisser des traces en vue de 2027 »* (conclusion de l'auteur).
 - **Concurrent direct dans le bloc central** : [[entities/edouard-philippe]] (parti Horizons), donné comme **« seul potentiel gagnant face au RN »** par le sondage Elabe BFMTV/La Tribune (cf. [[sources/2026-04-11-huffpost-toussay-haynes-primaires-2027]]). La crise Attal **renforce mécaniquement Philippe** comme alternative.
 
@@ -68,3 +74,4 @@ D'après la source :
 ## Sources citées
 
 - [[sources/2026-04-14-huffpost-taburet-renaissance-1er-mai-pugilat]]
+- [[sources/2026-04-16-huffpost-herreros-attal-candidature-2027]]

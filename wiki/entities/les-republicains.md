@@ -2,8 +2,8 @@
 title: Les Républicains (LR)
 type: entity
 created: 2026-04-15
-updated: 2026-04-15
-sources: [[sources/2026-03-25-guardian-trumplash]], [[sources/2026-04-15-huffpost-gueant-sarkozy-suicidaire]], [[sources/2026-04-14-huffpost-taburet-renaissance-1er-mai-pugilat]], [[sources/2026-04-11-huffpost-toussay-haynes-primaires-2027]]
+updated: 2026-04-16
+sources: [[sources/2026-03-25-guardian-trumplash]], [[sources/2026-04-15-huffpost-gueant-sarkozy-suicidaire]], [[sources/2026-04-14-huffpost-taburet-renaissance-1er-mai-pugilat]], [[sources/2026-04-11-huffpost-toussay-haynes-primaires-2027]], [[sources/2026-03-26-franceinfo-cometti-le-meneec-panorama-candidats-2027]], [[sources/2026-04-16-huffpost-herreros-attal-candidature-2027]]
 tags: [parti, droite, centre-droit, presidentielle-2027, stub]
 ---
 
@@ -43,7 +43,43 @@ Au-delà des résultats des [[entities/elections-locales-2026|municipales 2026]]
 
 → **Implication pour LR en 2027** : le parti se positionne en **alternative crédible à droite** face à un bloc central jugé indécis. Mais cette stratégie suppose un Retailleau capable de fédérer LR et de battre tous les autres présidentiables LR ([[entities/edouard-philippe]] en concurrence directe sur le centre-droit, possibles autres). **Aucun sondage personnel** n'est documenté dans le wiki.
 
-## À enrichir (stub)
+## 🆕 Vote des adhérents LR sur le mode de désignation (avril 2026)
+
+> *Section ajoutée le 2026-04-15 suite à l'ingest de [[sources/2026-03-26-franceinfo-cometti-le-meneec-panorama-candidats-2027]].*
+
+Un groupe de travail LR a retenu **3 options**, soumises au vote des adhérents en **avril 2026** :
+
+1. **Primaire fermée** — réservée aux membres LR seulement
+2. **Primaire ouverte** au centre et à la droite
+3. **Désignation directe** de [[entities/bruno-retailleau]] comme chef du parti
+
+**Critiques internes intenses** :
+- **[[entities/david-lisnard]]** (BFMTV) : *« C'est un non-sens absolu, un vote biaisé, un vote truqué »* — pour lui, le vote revient à entériner Retailleau d'office. **Menace de quitter LR**.
+- **[[entities/laurent-wauquiez]]** (RTL) : critique des *« options de boutiquiers »*, plaide pour une **primaire ouverte large** *« de [[entities/gerald-darmanin|Darmanin]] à Sarah Knafo »*.
+- **[[entities/xavier-bertrand]]** et **[[entities/michel-barnier]]** : refusent l'ouverture à Reconquête / Zemmour.
+
+→ **Effet politique** : à T-1 an, LR est **fragmenté entre 3 lignes stratégiques** (loyauté Retailleau / primaire ouverte large / désignation alternative), sans consensus. **Lisnard pourrait partir** créant un précédent.
+
+## Présidentiables LR identifiés au 2026-04-15
+
+| Nom | Statut | Position primaire |
+|---|---|---|
+| **[[entities/bruno-retailleau]]** | **Déclaré** (février 2026) | Contre |
+| **[[entities/xavier-bertrand]]** | Pressenti, *« se prépare »* | Contre |
+| **[[entities/michel-barnier]]** | Pressenti, *« prêt à servir »* | Contre l'ouverture à Reconquête |
+| **[[entities/david-lisnard]]** | Pressenti (Nouvelle Énergie) | Pour grande primaire ouverte |
+| **[[entities/laurent-wauquiez]]** | Pressenti (opposant interne) | Pour primaire ouverte |
+| **[[entities/dominique-de-villepin]]** | Pressenti hors LR (La France Humaniste) | n/a |
+
+## 🆕 Réaction LR à l'officialisation Attal (16 avril 2026)
+
+> *Section ajoutée le 2026-04-16 suite à l'ingest de [[sources/2026-04-16-huffpost-herreros-attal-candidature-2027]].*
+
+En réponse au tweet du *Point* présentant [[entities/gabriel-attal]] comme disposé à présider le pays, le **compte officiel de LR** a répondu avec un **mème montrant Kylian Mbappé** répondant *« Vous pensez ? Moi je ne pense pas »*.
+
+→ LR positionne Attal comme un concurrent **pas crédible** — cohérent avec la stratégie de [[entities/bruno-retailleau]] qui se positionne comme **l'alternative à droite** face au bloc central (cf. §Bruno Retailleau capitalise).
+
+## À enrichir
 
 - Direction actuelle de LR
 - Sortie / statut de Ciotti vis-à-vis du parti
@@ -55,6 +91,7 @@ Au-delà des résultats des [[entities/elections-locales-2026|municipales 2026]]
 
 - [[entities/eric-ciotti]]
 - [[entities/edouard-philippe]]
+- [[entities/gabriel-attal]] (mème Mbappé, 16 avril 2026)
 - [[entities/bruno-retailleau]]
 - [[entities/nicolas-sarkozy]]
 - [[entities/affaire-libyenne-sarkozy]]
@@ -68,3 +105,5 @@ Au-delà des résultats des [[entities/elections-locales-2026|municipales 2026]]
 - [[sources/2026-04-15-huffpost-gueant-sarkozy-suicidaire]]
 - [[sources/2026-04-11-huffpost-toussay-haynes-primaires-2027]]
 - [[sources/2026-04-14-huffpost-taburet-renaissance-1er-mai-pugilat]]
+- [[sources/2026-03-26-franceinfo-cometti-le-meneec-panorama-candidats-2027]]
+- [[sources/2026-04-16-huffpost-herreros-attal-candidature-2027]]

@@ -3,7 +3,7 @@ title: Qualification au second tour (présidentielle française)
 type: concept
 created: 2026-04-15
 updated: 2026-04-15
-sources: [[sources/2026-03-25-guardian-trumplash]], [[sources/2026-04-11-huffpost-herreros-sondages-t-moins-1-an]], [[sources/2026-04-11-huffpost-toussay-haynes-primaires-2027]]
+sources: [[sources/2026-03-25-guardian-trumplash]], [[sources/2026-04-11-huffpost-herreros-sondages-t-moins-1-an]], [[sources/2026-04-11-huffpost-toussay-haynes-primaires-2027]], [[sources/2026-03-26-franceinfo-cometti-le-meneec-panorama-candidats-2027]]
 tags: [mecanique-electorale, presidentielle-2027, scrutin-deux-tours, stub]
 ---
 
@@ -26,7 +26,9 @@ L'article ne théorise pas ce mécanisme — il le présuppose. Mais comprendre 
 
 ## Date du 1er tour 2027
 
-D'après [[sources/2026-04-11-huffpost-herreros-sondages-t-moins-1-an]] (en référence à l'article 7 de la Constitution) : **1er tour le 11 ou le 18 avril 2027**, selon le décret à venir. C'est la première date documentée dans le wiki.
+D'après [[sources/2026-04-11-huffpost-herreros-sondages-t-moins-1-an]] (en référence à l'article 7 de la Constitution) : **1er tour le 11 ou le 18 avril 2027**, selon le décret à venir.
+
+> Voir aussi le **calendrier complet** dans [[concepts/calendrier-2027]] (créé Bundle 4) — frise chronologique qui intègre tous les pivots datés (verdict Le Pen 7 juillet 2026, primaire de gauche 11 octobre 2026, vote LR avril 2026, etc.).
 
 ## Leçons historiques sur la qualification (les cinq derniers cycles)
 
@@ -64,3 +66,4 @@ D'après [[sources/2026-04-11-huffpost-herreros-sondages-t-moins-1-an]], **à ch
 - [[sources/2026-03-25-guardian-trumplash]]
 - [[sources/2026-04-11-huffpost-herreros-sondages-t-moins-1-an]]
 - [[sources/2026-04-11-huffpost-toussay-haynes-primaires-2027]]
+- [[sources/2026-03-26-franceinfo-cometti-le-meneec-panorama-candidats-2027]]

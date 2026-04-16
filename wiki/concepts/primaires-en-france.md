@@ -3,7 +3,7 @@ title: Primaires politiques en France (présidentielle)
 type: concept
 created: 2026-04-15
 updated: 2026-04-15
-sources: [[sources/2026-04-11-huffpost-toussay-haynes-primaires-2027]], [[sources/2026-04-11-huffpost-taburet-faure-candidature-commune-2027]]
+sources: [[sources/2026-04-11-huffpost-toussay-haynes-primaires-2027]], [[sources/2026-04-11-huffpost-taburet-faure-candidature-commune-2027]], [[sources/2026-03-26-franceinfo-cometti-le-meneec-panorama-candidats-2027]]
 tags: [methodologie, primaire, presidentielle, hub, scrutin]
 ---
 
@@ -97,6 +97,23 @@ Pour un candidat déjà bien placé dans les sondages :
 
 **Tension interne PS** : [[entities/boris-vallaud]] (président groupe PS Assemblée) **« lâche »** Faure et préférerait une **désignation d'un chef de file en juin** plutôt qu'une primaire — option que Faure rejette comme *« logique du chèque en blanc »*.
 
+## 🆕 Le débat LR (avril 2026) — vote des adhérents sur 3 options
+
+> *Section ajoutée le 2026-04-15 suite à l'ingest de [[sources/2026-03-26-franceinfo-cometti-le-meneec-panorama-candidats-2027]].*
+
+Au moment de l'ingest, **les [[entities/les-republicains|Républicains]] organisent un vote interne** pour décider du mode de désignation de leur candidat 2027. Trois options sont soumises aux adhérents en **avril 2026** :
+
+1. **Primaire fermée** — réservée aux membres LR seulement
+2. **Primaire ouverte** — au centre et à la droite
+3. **Désignation directe** de [[entities/bruno-retailleau]] comme chef du parti
+
+**Critiques internes** :
+- **[[entities/david-lisnard]]** menace de quitter LR : *« C'est un non-sens absolu, un vote biaisé, un vote truqué »* — selon lui, le vote revient à entériner Retailleau d'office.
+- **[[entities/laurent-wauquiez]]** parle d'**« options de boutiquiers »** et plaide pour une **primaire ouverte large** *« de [[entities/gerald-darmanin|Darmanin]] à Sarah Knafo »* (incluant donc [[entities/reconquete|Reconquête]]).
+- Le rejet de l'ouverture à Reconquête est porté par **[[entities/xavier-bertrand]]** et **[[entities/michel-barnier]]**.
+
+→ **Cas d'école** : à la différence de la primaire de gauche (où le débat porte sur **qui inclure**, c'est-à-dire LFI ou pas), à droite le débat porte sur **comment voter** (qui choisit le candidat). Les deux camps illustrent la **fragmentation des stratégies de désignation** à T-1 an.
+
 ## Open questions
 
 - **Calendrier 2027** : la primaire de gauche annoncée par Faure pour le 11 octobre 2026 aura-t-elle lieu, avec quel périmètre, et avec quels candidats effectifs ?
@@ -129,3 +146,4 @@ Pour un candidat déjà bien placé dans les sondages :
 
 - [[sources/2026-04-11-huffpost-toussay-haynes-primaires-2027]]
 - [[sources/2026-04-11-huffpost-taburet-faure-candidature-commune-2027]]
+- [[sources/2026-03-26-franceinfo-cometti-le-meneec-panorama-candidats-2027]]

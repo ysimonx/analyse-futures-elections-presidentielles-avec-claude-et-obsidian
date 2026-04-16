@@ -3,7 +3,7 @@ title: Sébastien Lecornu
 type: entity
 created: 2026-04-15
 updated: 2026-04-15
-sources: [[sources/2026-04-14-huffpost-taburet-renaissance-1er-mai-pugilat]]
+sources: [[sources/2026-04-14-huffpost-taburet-renaissance-1er-mai-pugilat]], [[sources/2026-04-15-franceinfo-duguet-macron-role-2027]]
 tags: [personne, premier-ministre, bloc-central, gouvernement, stub]
 ---
 
@@ -21,9 +21,11 @@ tags: [personne, premier-ministre, bloc-central, gouvernement, stub]
 
 ## Pertinence pour 2027
 
-- **Pas de cadrage présidentiel** dans la source actuelle. Lecornu n'est pas présenté comme candidat 2027.
+- **Pas candidat 2027** — confirmation explicite via [[sources/2026-04-15-franceinfo-duguet-macron-role-2027]] qui cite Lecornu (début mars 2026) : *« Je n'ai pas d'ambition présidentielle. »*
+- **Vise plutôt 2032** d'après une *« figure du bloc central »* : *« Il gère son temps. À mon avis, ça ne sera pas pour 2027 mais pour après. »* → résout définitivement l'open question Bundle 3.
 - **Mais** : sa fonction de Premier ministre signifie qu'il porte l'image gouvernementale à T-1 an du scrutin. Tout fiasco gouvernemental sous sa direction **alimente le narratif d'usure de la macronie**.
 - **Son arbitrage du 14 avril** révèle une équation politique délicate : ménager la gauche pour éviter la chute, au prix de fâcher son propre camp.
+- **Élu de l'Eure**, qualifié d'*« Eurois »* par franceinfo.
 
 ## À enrichir (stub) — page très lacunaire
 
@@ -47,3 +49,4 @@ tags: [personne, premier-ministre, bloc-central, gouvernement, stub]
 ## Sources citées
 
 - [[sources/2026-04-14-huffpost-taburet-renaissance-1er-mai-pugilat]]
+- [[sources/2026-04-15-franceinfo-duguet-macron-role-2027]]

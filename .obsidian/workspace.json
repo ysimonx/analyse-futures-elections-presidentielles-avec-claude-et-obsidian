@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/entities/elections-locales-2026.md",
+                "file": "wiki/concepts/bloc-central.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "elections-locales-2026"
+              "title": "bloc-central"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/entities/elections-locales-2026.md",
+                "file": "wiki/entities/yael-braun-pivet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rétrolien pour elections-locales-2026"
+              "title": "Rétrolien pour yael-braun-pivet"
             }
           },
           {
@@ -183,32 +183,32 @@
   },
   "active": "d8bc39208657fb66",
   "lastOpenFiles": [
-    "wiki/entities/edouard-philippe.md",
-    "wiki/concepts/qualification-second-tour.md",
-    "wiki/entities/jean-luc-melenchon.md",
-    "raw/Jean-Luc Mélenchon, Bruno Retailleau, Marine Le Pen (ou Jordan Bardella)... Qui sont les candidats déjà déclarés ou pressentis pour la présidentielle 2027 ?.md",
-    "raw/Carburants  \"La dureté du choc nous impose d'accompagner les pêcheurs\", selon Edouard Philippe, en visite à Douarnenez - ICI.md",
-    "raw/\"Personne ne souhaite être désigné comme son successeur\"  quel rôle jouera Emmanuel Macron dans la campagne présidentielle de 2027 ?.md",
-    "raw/\"On a encore du mal à se faire accepter par le milieu bancaire\"  le RN n'a toujours pas de banque pour financer sa campagne présidentielle.md",
-    "wiki/concepts/bloc-central.md",
-    "wiki/entities/udi.md",
-    "wiki/entities/modem.md",
-    "wiki/entities/marc-fesneau.md",
-    "wiki/entities/bruno-retailleau.md",
+    "wiki/sources/2026-04-16-huffpost-herreros-attal-candidature-2027.md",
+    "wiki/sources/2026-04-15-ici-jeuffin-philippe-douarnenez-pecheurs.md",
+    "raw/2026-04-15-franceinfo-duguet-macron-role-2027.md",
+    "wiki/entities/francois-asselineau.md",
+    "wiki/entities/fabien-roussel.md",
+    "wiki/entities/eric-zemmour.md",
+    "Clippings/Gabriel Attal officialise sa candidature pour 2027 (et déclenche les hostilités).md",
+    "wiki/answers/qui-sera-le-prochain-president.md",
+    "wiki/concepts/primaires-en-france.md",
+    "wiki/concepts/calendrier-2027.md",
     "wiki/entities/yael-braun-pivet.md",
-    "wiki/entities/maud-bregeon.md",
-    "wiki/entities/emmanuel-macron.md",
-    "wiki/entities/renaissance.md",
-    "wiki/entities/sebastien-lecornu.md",
-    "wiki/entities/gabriel-attal.md",
-    "wiki/sources/2026-04-14-huffpost-taburet-renaissance-1er-mai-pugilat.md",
-    "raw/2026-04-14-huffpost-taburet-renaissance-1er-mai-pugilat.md",
-    "log.md",
-    "wiki/concepts/front-republicain.md",
-    "wiki/entities/eelv.md",
-    "wiki/entities/place-publique.md",
-    "wiki/entities/chloe-ridel.md",
-    "wiki/entities/boris-vallaud.md",
+    "wiki/entities/lutte-ouvriere.md",
+    "wiki/entities/pcf.md",
+    "wiki/entities/marc-fesneau.md",
+    "wiki/entities/reconquete.md",
+    "wiki/entities/horizons.md",
+    "wiki/entities/elections-locales-2026.md",
+    "wiki/entities/nicolas-dupont-aignan.md",
+    "wiki/entities/nathalie-arthaud.md",
+    "wiki/entities/delphine-batho.md",
+    "wiki/entities/jerome-guedj.md",
+    "wiki/entities/dominique-de-villepin.md",
+    "wiki/entities/david-lisnard.md",
+    "wiki/entities/laurent-wauquiez.md",
+    "wiki/entities/michel-barnier.md",
+    "wiki/entities/xavier-bertrand.md",
     "entities",
     "Clippings",
     "wiki/sources",

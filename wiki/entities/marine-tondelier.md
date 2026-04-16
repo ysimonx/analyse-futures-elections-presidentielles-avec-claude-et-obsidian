@@ -3,7 +3,7 @@ title: Marine Tondelier
 type: entity
 created: 2026-04-15
 updated: 2026-04-15
-sources: [[sources/2026-04-11-huffpost-taburet-faure-candidature-commune-2027]], [[sources/2026-04-11-huffpost-toussay-haynes-primaires-2027]]
+sources: [[sources/2026-04-11-huffpost-taburet-faure-candidature-commune-2027]], [[sources/2026-04-11-huffpost-toussay-haynes-primaires-2027]], [[sources/2026-03-26-franceinfo-cometti-le-meneec-panorama-candidats-2027]]
 tags: [personne, eelv, ecologistes, gauche, candidate-primaire, presidentielle-2027, stub]
 ---
 
@@ -17,7 +17,7 @@ Dirigeante des **Écologistes ([[entities/eelv]])** au moment de l'ingest. D'apr
 
 - **Pour, sans condition.**
 - Selon [[sources/2026-04-11-huffpost-toussay-haynes-primaires-2027]] : *« Il y a ceux qui la défendent coûte que coûte, comme Marine Tondelier. »*
-- **Candidate déclarée**.
+- **Candidate déclarée** — désignée par EELV en **décembre 2025** pour représenter les Écologistes à la primaire de gauche, d'après [[sources/2026-03-26-franceinfo-cometti-le-meneec-panorama-candidats-2027]].
 - Sa position contraste avec celle des autres pré-favoris ([[entities/jean-luc-melenchon]], [[entities/raphael-glucksmann]]) qui refusent — d'où l'enjeu : si la primaire a lieu sans eux, Tondelier en serait l'une des principales bénéficiaires.
 
 ## À enrichir (stub)
@@ -40,3 +40,4 @@ Dirigeante des **Écologistes ([[entities/eelv]])** au moment de l'ingest. D'apr
 
 - [[sources/2026-04-11-huffpost-taburet-faure-candidature-commune-2027]]
 - [[sources/2026-04-11-huffpost-toussay-haynes-primaires-2027]]
+- [[sources/2026-03-26-franceinfo-cometti-le-meneec-panorama-candidats-2027]]

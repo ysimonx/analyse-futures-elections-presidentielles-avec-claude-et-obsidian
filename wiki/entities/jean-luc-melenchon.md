@@ -3,7 +3,7 @@ title: Jean-Luc Mélenchon
 type: entity
 created: 2026-04-15
 updated: 2026-04-15
-sources: [[sources/2026-03-25-guardian-trumplash]], [[sources/2026-04-11-huffpost-taburet-faure-candidature-commune-2027]], [[sources/2026-04-11-huffpost-toussay-haynes-primaires-2027]]
+sources: [[sources/2026-03-25-guardian-trumplash]], [[sources/2026-04-11-huffpost-taburet-faure-candidature-commune-2027]], [[sources/2026-04-11-huffpost-toussay-haynes-primaires-2027]], [[sources/2026-03-26-franceinfo-cometti-le-meneec-panorama-candidats-2027]]
 tags: [personne, lfi, gauche-radicale, presidentielle-2027, sondages, stub]
 ---
 
@@ -21,9 +21,11 @@ tags: [personne, lfi, gauche-radicale, presidentielle-2027, sondages, stub]
 
 ## Position dans le cycle 2027 (selon les sources)
 
+- **Candidat naturel mais non déclaré** d'après [[sources/2026-03-26-franceinfo-cometti-le-meneec-panorama-candidats-2027]] : *« Jean-Luc Mélenchon fait figure de candidat naturel de la formation qu'il a lancée en 2016. Battu au premier tour en 2012 (11,10 %), 2017 (19,58 %) et 2022 (21,95 %), l'ancien parlementaire ne s'est pas encore déclaré pour 2027, mais il y a peu de doute sur sa volonté de repartir en campagne, à bientôt 75 ans. »*
+- **Trajectoire électorale présidentielle confirmée** : 2012 (11,10 %), 2017 (19,58 %), 2022 (21,95 %) — **trois défaites au 1er tour**, score en croissance constante.
 - **Pré-favori des sondages de gauche**, mais aucun chiffre précis dans les sources ingérées.
-- **Statut formel de candidature 2027** : non confirmé dans les sources ingérées. À surveiller — son refus de la primaire ne signifie pas automatiquement qu'il sera candidat lui-même.
 - **Image affaiblie** : d'après [[sources/2026-03-25-guardian-trumplash]], LFI subit en 2026 des accusations d'extrémisme, d'antisémitisme et de violences (notamment l'**affaire Quentin Deranque**, fév. 2026), qui dégradent son contexte politique sans que la responsabilité personnelle de Mélenchon soit impliquée par les sources.
+- **Soutien possible de Philippe Poutou (NPA)** mentionné dans la source franceinfo.
 
 ## À enrichir (stub)
 
@@ -48,3 +50,4 @@ tags: [personne, lfi, gauche-radicale, presidentielle-2027, sondages, stub]
 - [[sources/2026-03-25-guardian-trumplash]]
 - [[sources/2026-04-11-huffpost-taburet-faure-candidature-commune-2027]]
 - [[sources/2026-04-11-huffpost-toussay-haynes-primaires-2027]]
+- [[sources/2026-03-26-franceinfo-cometti-le-meneec-panorama-candidats-2027]]

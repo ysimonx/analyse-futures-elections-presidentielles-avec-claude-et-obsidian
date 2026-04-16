@@ -3,8 +3,8 @@ title: Jordan Bardella
 type: entity
 created: 2026-04-15
 updated: 2026-04-15
-sources: [[sources/2026-03-25-guardian-trumplash]], [[sources/2026-04-11-huffpost-toussay-haynes-primaires-2027]]
-tags: [personne, rn, presidentielle-2027, candidat, sondages, stub]
+sources: [[sources/2026-03-25-guardian-trumplash]], [[sources/2026-04-11-huffpost-toussay-haynes-primaires-2027]], [[sources/2026-03-26-franceinfo-cometti-le-meneec-panorama-candidats-2027]]
+tags: [personne, rn, presidentielle-2027, candidat, sondages]
 ---
 
 # Jordan Bardella
@@ -15,8 +15,8 @@ Président du [[entities/rassemblement-national]] et **candidat alternatif à la
 
 ## Rôle dans le cycle 2027
 
-- **Plan B institutionnel du RN** si Le Pen est jugée inéligible.
-- L'article ne précise pas s'il est aussi compétitif qu'elle au 2nd tour, ni si le RN a tranché en interne pour l'un ou l'autre cas de figure.
+- **Plan B institutionnel du RN** si Le Pen est jugée inéligible le **7 juillet 2026** (verdict en appel — cf. [[entities/marine-le-pen]] et [[concepts/calendrier-2027]]).
+- D'après [[sources/2026-03-26-franceinfo-cometti-le-meneec-panorama-candidats-2027]] : *« Le président du RN et dauphin de la fille de Jean-Marie Le Pen se prépare depuis plusieurs mois à la remplacer. Tous deux sont désormais testés par les instituts de sondage et se hissent largement à la première place dans les intentions de vote pour le premier tour. »* — **les deux scénarios sont en pole position dans les sondages**.
 
 ## Sondage Elabe BFMTV / La Tribune (fin mars 2026)
 
@@ -59,3 +59,4 @@ D'après [[sources/2026-04-11-huffpost-toussay-haynes-primaires-2027]] qui cite 
 
 - [[sources/2026-03-25-guardian-trumplash]]
 - [[sources/2026-04-11-huffpost-toussay-haynes-primaires-2027]]
+- [[sources/2026-03-26-franceinfo-cometti-le-meneec-panorama-candidats-2027]]

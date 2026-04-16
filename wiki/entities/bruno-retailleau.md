@@ -3,8 +3,8 @@ title: Bruno Retailleau
 type: entity
 created: 2026-04-15
 updated: 2026-04-15
-sources: [[sources/2026-04-11-huffpost-toussay-haynes-primaires-2027]], [[sources/2026-04-14-huffpost-taburet-renaissance-1er-mai-pugilat]]
-tags: [personne, lr, droite, presidentielle-2027, stub]
+sources: [[sources/2026-04-11-huffpost-toussay-haynes-primaires-2027]], [[sources/2026-04-14-huffpost-taburet-renaissance-1er-mai-pugilat]], [[sources/2026-03-26-franceinfo-cometti-le-meneec-panorama-candidats-2027]]
+tags: [personne, lr, droite, presidentielle-2027, candidat-declare, stub]
 ---
 
 # Bruno Retailleau
@@ -13,11 +13,17 @@ tags: [personne, lr, droite, presidentielle-2027, stub]
 
 Personnalité politique française de droite, membre des [[entities/les-republicains|Républicains]]. Présent dans deux sources du wiki : [[sources/2026-04-11-huffpost-toussay-haynes-primaires-2027]] le mentionne parmi **ceux qui ne veulent pas entendre parler de primaire** pour 2027, et [[sources/2026-04-14-huffpost-taburet-renaissance-1er-mai-pugilat]] le montre **capitalisant politiquement** sur le crash de Renaissance le 1er mai en réclamant la réunion immédiate de la CMP « *façon de renvoyer la Macronie à son immobilisme* ».
 
+## 🆕 Candidature officialisée (février 2026)
+
+D'après [[sources/2026-03-26-franceinfo-cometti-le-meneec-panorama-candidats-2027]] :
+
+> Le président des [[entities/les-republicains|Républicains]], Bruno Retailleau, a **officialisé sa candidature en février 2026** dans un message envoyé à des élus de son parti.
+
+C'est le **premier candidat LR officiellement déclaré** pour 2027. Sa position de président du parti lui donne un avantage structurel mais s'expose aux contestations internes (Wauquiez, Lisnard).
+
 ## Position sur la primaire 2027
 
-D'après [[sources/2026-04-11-huffpost-toussay-haynes-primaires-2027]] : Retailleau est rangé parmi ceux qui *« ne veulent pas en entendre parler »* d'une primaire pour 2027. Au même titre que [[entities/jean-luc-melenchon]] mais à droite.
-
-→ **Implication** : Retailleau préfère probablement **se positionner directement** comme candidat 2027 sans passer par un mécanisme de désignation interne — une stratégie similaire à celle des pré-favoris de gauche qui refusent la primaire Faure.
+D'après [[sources/2026-04-11-huffpost-toussay-haynes-primaires-2027]] et [[sources/2026-03-26-franceinfo-cometti-le-meneec-panorama-candidats-2027]] : Retailleau est rangé parmi ceux qui *« ne veulent pas en entendre parler »* d'une primaire pour 2027. **Le bureau politique LR a soumis aux adhérents en avril 2026 trois options** dont l'une est la **désignation directe de Retailleau** comme chef du parti — option dénoncée par [[entities/david-lisnard]] comme *« vote biaisé, vote truqué »* et par [[entities/laurent-wauquiez]] comme *« options de boutiquiers »*.
 
 ## Rôle dans la crise du 1er mai
 
@@ -57,3 +63,4 @@ D'après [[sources/2026-04-14-huffpost-taburet-renaissance-1er-mai-pugilat]] :
 
 - [[sources/2026-04-11-huffpost-toussay-haynes-primaires-2027]]
 - [[sources/2026-04-14-huffpost-taburet-renaissance-1er-mai-pugilat]]
+- [[sources/2026-03-26-franceinfo-cometti-le-meneec-panorama-candidats-2027]]

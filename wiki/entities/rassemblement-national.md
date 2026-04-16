@@ -3,7 +3,7 @@ title: Rassemblement National (RN)
 type: entity
 created: 2026-04-15
 updated: 2026-04-15
-sources: [[sources/2026-03-25-guardian-trumplash]]
+sources: [[sources/2026-03-25-guardian-trumplash]], [[sources/2026-03-26-franceinfo-cometti-le-meneec-panorama-candidats-2027]], [[sources/2026-04-15-franceinfo-bonno-rn-banque-financement]]
 tags: [parti, extreme-droite, presidentielle-2027, stub]
 ---
 
@@ -28,10 +28,32 @@ D'après [[sources/2026-03-25-guardian-trumplash]] :
 
 ## Présidentielle 2027
 
-- **Candidat probable** : Marine Le Pen, sous réserve de l'issue de son **procès en appel** (audience close fév. 2026, décision attendue, voir [[entities/marine-le-pen]]).
-- **Plan B** : Jordan Bardella si Le Pen est inéligible.
-- **Position dans les sondages au 2026-04-15** : Les sondages mentionnés (sans chiffres précis) le donnent **confortablement gagnant au 1er tour**, et **gagnant au 2nd tour selon l'adversaire**.
+- **Candidat probable** : [[entities/marine-le-pen]], sous réserve du **verdict en appel du 7 juillet 2026** dans l'**affaire des assistants parlementaires européens** (condamnation 1ère instance le 31 mars 2025 : 5 ans inéligibilité + 2 ans ferme).
+- **Plan B** : [[entities/jordan-bardella]] si Le Pen est jugée inéligible.
+- **Sondages au printemps 2026** : Les deux candidats (Le Pen ET Bardella) sont *« désormais testés par les instituts de sondage et se hissent largement à la première place dans les intentions de vote pour le premier tour »* ([[sources/2026-03-26-franceinfo-cometti-le-meneec-panorama-candidats-2027]]).
 - **Enjeu européen perçu** : Une victoire serait, selon [[sources/2026-03-25-guardian-trumplash]], « peut-être la plus grande menace structurelle pour l'architecture de l'UE de son histoire » — politique « France first », recul du soutien à l'Ukraine, défi à l'OTAN.
+
+## Calendrier RN au printemps 2026
+
+- **🚨 7 juillet 2026** : verdict en appel du procès Le Pen — décide qui sera candidat (cf. [[concepts/calendrier-2027]]).
+- **Programme RN en attente** : *« sera tranché plus tard, une fois le nom du candidat connu »* (cohérent avec un parti suspendu au verdict).
+- **🆕 16-17 avril 2026** : **séminaire stratégique** dans un lieu secret hors de Paris, impliquant [[entities/marine-le-pen]], [[entities/jordan-bardella]], leurs conseillers et quelques élus. Objectif : *« réfléchir à une stratégie, un calendrier et l'organisation de la campagne »* ([[sources/2026-04-15-franceinfo-bonno-rn-banque-financement]]). **Le programme reste suspendu au verdict du 7 juillet.**
+
+## 🆕 Financement de la campagne 2027 — un trou à 10,7 M€
+
+> *Section ajoutée le 2026-04-15 suite à l'ingest de [[sources/2026-04-15-franceinfo-bonno-rn-banque-financement]].*
+
+- **Le RN cherche 10 700 000 €** pour financer la campagne 2027.
+- **Aucune banque française ou européenne** n'a accepté à ce jour.
+- **Trésorier RN Kévin Pfeffer** (franceinfo, 15 avril 2026) :
+  - *« On a encore du mal à se faire accepter par le milieu bancaire. »*
+  - Les établissements *« ont un a priori négatif »*, mais *« ça commence à se dégeler »* avec certaines.
+- **Risque bancaire « pur » faible** : le RN est assuré de dépasser 5 % au 1er tour, donc l'État remboursera les frais (condition légale).
+- **🆕 L'allié hongrois est tombé** : en 2022, c'était une **banque hongroise** qui avait prêté au RN. **Avec la défaite de Viktor Orbán** (mentionnée par franceinfo et anticipée par [[sources/2026-03-25-guardian-trumplash]]), **ce canal est fermé**.
+- Le parti cherche aussi **un QG de campagne à Paris**.
+
+> [!warning] Effet politique du « refus bancaire »
+> Le RN mobilise depuis longtemps le narratif de la « banque qui refuse » comme **preuve d'une « persécution médiatique et financière »** — utile pour mobiliser sa base. La source ne creuse pas cet angle, mais le wiki doit le noter : **l'absence de prêt n'est pas seulement un fait opérationnel, c'est aussi un argument de campagne potentiel** pour le parti.
 
 ## À enrichir (stub)
 
@@ -55,3 +77,5 @@ Cette page est un point de départ basé sur **une seule source**. Manquent :
 ## Sources citées
 
 - [[sources/2026-03-25-guardian-trumplash]]
+- [[sources/2026-03-26-franceinfo-cometti-le-meneec-panorama-candidats-2027]]
+- [[sources/2026-04-15-franceinfo-bonno-rn-banque-financement]]

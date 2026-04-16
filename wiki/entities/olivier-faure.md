@@ -3,7 +3,7 @@ title: Olivier Faure
 type: entity
 created: 2026-04-15
 updated: 2026-04-15
-sources: [[sources/2026-04-11-huffpost-taburet-faure-candidature-commune-2027]]
+sources: [[sources/2026-04-11-huffpost-taburet-faure-candidature-commune-2027]], [[sources/2026-03-26-franceinfo-cometti-le-meneec-panorama-candidats-2027]]
 tags: [personne, ps, gauche, premier-secretaire, presidentielle-2027, stub]
 ---
 
@@ -26,6 +26,16 @@ D'après [[sources/2026-04-11-huffpost-taburet-faure-candidature-commune-2027]] 
 - **Pro-primaire** : *« La primaire est le moins mauvais des systèmes. »*
 - Mais **ouvert** : *« S'il y a d'autres moyens, si quelqu'un apporte la démonstration que nous pouvons tenir l'objectif d'un candidat commun sans passer par ce mécanisme, alors je suis ouvert à toute autre possibilité. Simplement, au moment où nous nous parlons, personne n'en a proposé. »*
 - **Contre la logique alternative** poussée par certains cadres (« désigner un chef de file en juin qui décide de tout ») : *« Cette logique du chèque en blanc n'est pas la mienne. »* Visée implicite contre [[entities/boris-vallaud]].
+
+## 🆕 Contestation interne (avril 2026)
+
+D'après [[sources/2026-03-26-franceinfo-cometti-le-meneec-panorama-candidats-2027]], la contestation interne contre Faure s'est **intensifiée après les municipales 2026** :
+
+- **[[entities/francois-hollande]] consulte** et critique Faure. L'ancien président redevient **acteur PS actif**, sans dévoiler ses ambitions : *« il doit travailler sur son bilan et sur ce qu'est "le nouveau Hollande" »* (député PS cité).
+- Article connexe franceinfo : *« Il faut qu'Olivier Faure démissionne »* — réunion houleuse au PS post-municipales.
+- En plus de [[entities/boris-vallaud]] qui le « lâche » sur la stratégie de désignation.
+
+→ **Faure est désormais contesté sur deux fronts** : son adjoint à l'Assemblée (Vallaud) ET son prédécesseur historique (Hollande).
 
 ## Talon d'Achille du dispositif
 
@@ -63,3 +73,4 @@ D'après [[sources/2026-04-11-huffpost-taburet-faure-candidature-commune-2027]] 
 
 - [[sources/2026-04-11-huffpost-taburet-faure-candidature-commune-2027]]
 - [[sources/2026-04-11-huffpost-toussay-haynes-primaires-2027]] (cite indirectement le plan Faure)
+- [[sources/2026-03-26-franceinfo-cometti-le-meneec-panorama-candidats-2027]]

@@ -3,7 +3,7 @@ title: Parti Socialiste (PS)
 type: entity
 created: 2026-04-15
 updated: 2026-04-15
-sources: [[sources/2026-03-25-guardian-trumplash]], [[sources/2026-04-11-huffpost-taburet-faure-candidature-commune-2027]], [[sources/2026-04-11-huffpost-toussay-haynes-primaires-2027]]
+sources: [[sources/2026-03-25-guardian-trumplash]], [[sources/2026-04-11-huffpost-taburet-faure-candidature-commune-2027]], [[sources/2026-04-11-huffpost-toussay-haynes-primaires-2027]], [[sources/2026-03-26-franceinfo-cometti-le-meneec-panorama-candidats-2027]]
 tags: [parti, gauche, centre-gauche, presidentielle-2027, stub]
 ---
 
@@ -44,6 +44,8 @@ Parti de centre-gauche français. D'après [[sources/2026-03-25-guardian-trumpla
 - Faure est **« contesté en interne »** au PS.
 - Il est **« lâché »** publiquement par [[entities/boris-vallaud]] (président du groupe PS à l'Assemblée), qui juge la primaire **« inefficace »** et préférerait la **désignation d'un chef de file en juin** — option que Faure rejette en parlant de **« logique du chèque en blanc »**.
 - *« Trois bureaux du Parti socialiste organisés coup sur coup n'ont pas permis d'y voir plus clair. »*
+- 🆕 **Suite des contestations** ([[sources/2026-03-26-franceinfo-cometti-le-meneec-panorama-candidats-2027]], post-municipales) : **[[entities/francois-hollande]] consulte** et critique Faure publiquement, redevenant acteur PS actif. Réunion houleuse au PS sur le thème *« Il faut qu'Olivier Faure démissionne »*.
+- **Candidats PS déclarés à la primaire** : Jérôme Guedj (déclaré début février 2026, anti-LFI ferme), plus *« plusieurs candidatures socialistes »* annoncées par Faure. **Ségolène Royal** *« pourrait participer »* (France 2, fin octobre 2025).
 
 ### Talon d'Achille
 
@@ -84,3 +86,4 @@ Cette stratégie corrobore en partie l'observation de [[sources/2026-03-25-guard
 - [[sources/2026-03-25-guardian-trumplash]]
 - [[sources/2026-04-11-huffpost-taburet-faure-candidature-commune-2027]]
 - [[sources/2026-04-11-huffpost-toussay-haynes-primaires-2027]]
+- [[sources/2026-03-26-franceinfo-cometti-le-meneec-panorama-candidats-2027]]
