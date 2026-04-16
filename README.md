@@ -1,4 +1,4 @@
-# senspo — Wiki analytique de la présidentielle française 2027
+# Wiki analytique de la présidentielle française 2027
 
 Un vault [Obsidian](https://obsidian.md) maintenu par un agent LLM (Claude), conçu pour suivre et analyser la course à l'élection présidentielle française de 2027.
 
@@ -11,7 +11,7 @@ L'utilisateur dépose des sources brutes (articles de presse, analyses, clipping
 ## Structure du vault
 
 ```
-senspo/
+/
 ├── CLAUDE.md          # contrat / schéma du wiki — conventions que l'agent suit
 ├── index.md           # catalogue : chaque page wiki listée avec résumé d'une ligne
 ├── log.md             # journal chronologique append-only de toute l'activité
@@ -72,7 +72,7 @@ Détecte les contradictions, pages orphelines, liens cassés, index désynchroni
 ```bash
 # Ouvrir le vault dans Obsidian
 # Lancer Claude Code dans le répertoire du vault
-cd senspo
+cd ***
 claude
 
 # Exemples de commandes
